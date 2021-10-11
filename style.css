@@ -54,7 +54,7 @@ p{
         color:black;  
     }
 }
-@media screen  and (max-width:700px) {
+@media screen  and (max-width:600px) {
     body{
         background-color:rgb(168, 80, 168);
     }
